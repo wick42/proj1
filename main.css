@@ -1,0 +1,13 @@
+div {
+	color: white;
+}
+
+#dayOne {
+	background-color: red;
+	width: 50%;
+}
+
+#dayTwo {
+	background-color: blue;
+	width: 50%;
+}
